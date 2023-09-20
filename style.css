@@ -1,0 +1,945 @@
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-Frame3-31-Frame1-111 {
+  from {
+    transform: rotate(0deg);
+    top: 19px;
+    left: 216px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 88px;
+    height: 48px;
+    undefinedborder-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 19px;
+    left: 216px;
+    width: 88px;
+    height: 48px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    undefinedborder-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+    background: rgba(108, 117, 166, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-Frame3-31-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-Frame3-31-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame3-31-Frame1-111 {
+  from {
+    transform: rotate(0deg);
+    top: 9px;
+    left: 50px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 25px;
+    height: 25px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 9px;
+    left: 50px;
+    width: 25px;
+    height: 25px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame3-31-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame3-31-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame3-31-Frame1-111 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F20-sep-2023%2Fimage15b0c58d-ce00-4797-8c2f-36b12b87f039.png?alt=media&token=4e2a02aa-0c76-4b88-959a-721a7107a708);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame3-31-Frame1-111 {
+  animation: bgAnimation-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame3-31-Frame1-111
+    0.30000001192092896s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame3-31-Frame1-111 {
+  from {
+    transform: rotate(0deg);
+    top: 12px;
+    left: 12px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    width: 25px;
+    height: 25px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 12px;
+    left: 12px;
+    width: 25px;
+    height: 25px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame3-31-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame3-31-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame3-31-Frame1-111 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F20-sep-2023%2Fimageab77e0d4-8ca7-4f1c-88bb-55bf5fea8add.png?alt=media&token=7eb57acc-d642-471b-9b2c-6e153940766e);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame3-31-Frame1-111 {
+  animation: bgAnimation-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame3-31-Frame1-111
+    0.30000001192092896s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame3-31-Frame1-111 {
+  from {
+    transform: rotate(0deg);
+    top: 4px;
+    left: 42px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    width: 40px;
+    height: 40px;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 4px;
+    left: 42px;
+    width: 40px;
+    height: 40px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+
+    background: rgba(249, 238, 136, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame3-31-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame3-31-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes path-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame3-31-Frame1-svgpath-111 {
+  from {
+    d: path(
+      "M40 20C40 31.0457 31.0457 40 20 40C8.9543 40 0 31.0457 0 20C0 8.9543 8.9543 0 20 0C31.0457 0 40 8.9543 40 20Z"
+    );
+  }
+  to {
+    d: path(
+      "M40 20C40 31.0457 31.0457 40 20 40C8.9543 40 0 31.0457 0 20C0 8.9543 8.9543 0 20 0C31.0457 0 40 8.9543 40 20Z"
+    );
+  }
+}
+.pathClass-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame3-31-Frame1-svgpath-111 {
+  animation: path-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame3-31-Frame1-svgpath-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-Frame1-111 {
+  from {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 322px;
+    height: 332px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    width: 322px;
+    height: 332px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    border-radius: 0px;
+    background: rgba(0, 0, 0, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-Frame2-31-Frame1-111 {
+  from {
+    transform: rotate(0deg);
+    top: 23px;
+    left: 216px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 88px;
+    height: 48px;
+    undefinedborder-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 23px;
+    left: 216px;
+    width: 88px;
+    height: 48px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    undefinedborder-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+    background: rgba(108, 117, 166, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-Frame2-31-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-Frame2-31-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame2-31-Frame1-111 {
+  from {
+    transform: rotate(0deg);
+    top: 9px;
+    left: 50px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 25px;
+    height: 25px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 9px;
+    left: 50px;
+    width: 25px;
+    height: 25px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame2-31-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame2-31-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame2-31-Frame1-111 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F20-sep-2023%2Fimage7cab697d-f009-498e-bd3c-1a32f009ca57.png?alt=media&token=34e97b50-3cfe-422e-8214-395fd30506ab);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame2-31-Frame1-111 {
+  animation: bgAnimation-click-Ellipse1-31-Frame3-31-Frame1-waning-moon1-31-Frame2-31-Frame1-111
+    0.30000001192092896s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame2-31-Frame1-111 {
+  from {
+    transform: rotate(0deg);
+    top: 12px;
+    left: 12px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 25px;
+    height: 25px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 12px;
+    left: 12px;
+    width: 25px;
+    height: 25px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame2-31-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame2-31-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame2-31-Frame1-111 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F20-sep-2023%2Fimageb5baad89-89c9-4db5-a908-2423089c63d9.png?alt=media&token=e690a099-56aa-4012-a010-8654b8868372);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame2-31-Frame1-111 {
+  animation: bgAnimation-click-Ellipse1-31-Frame3-31-Frame1-sun1-31-Frame2-31-Frame1-111
+    0.30000001192092896s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame2-31-Frame1-111 {
+  from {
+    transform: rotate(88.88559730996936deg);
+    top: 4.000000022351742px;
+    left: 4.999996684491634px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 40px;
+    height: 40px;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+  }
+  to {
+    transform: rotate(88.88559730996936deg);
+    top: 4.000000022351742px;
+    left: 4.999996684491634px;
+    width: 40px;
+    height: 40px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+
+    background: rgba(249, 238, 136, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame2-31-Frame1-111 {
+  animation: animation-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame2-31-Frame1-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes path-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame2-31-Frame1-svgpath-111 {
+  from {
+    d: path(
+      "M40 20C40 31.0457 31.0457 40 20 40C8.9543 40 0 31.0457 0 20C0 8.9543 8.9543 0 20 0C31.0457 0 40 8.9543 40 20Z"
+    );
+  }
+  to {
+    d: path(
+      "M40 20C40 31.0457 31.0457 40 20 40C8.9543 40 0 31.0457 0 20C0 8.9543 8.9543 0 20 0C31.0457 0 40 8.9543 40 20Z"
+    );
+  }
+}
+.pathClass-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame2-31-Frame1-svgpath-111 {
+  animation: path-click-Ellipse1-31-Frame3-31-Frame1-Ellipse1-31-Frame2-31-Frame1-svgpath-111
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-12 {
+  from {
+    transform: rotate(0deg);
+    top: 23px;
+    left: 216px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 88px;
+    height: 48px;
+    undefinedborder-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 23px;
+    left: 216px;
+    width: 88px;
+    height: 48px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    undefinedborder-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+    background: rgba(108, 117, 166, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame2-31-Frame1-12 {
+  from {
+    transform: rotate(0deg);
+    top: 9px;
+    left: 50px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 25px;
+    height: 25px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 9px;
+    left: 50px;
+    width: 25px;
+    height: 25px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame2-31-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame2-31-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame2-31-Frame1-12 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F20-sep-2023%2Fimage082a2be7-ddfa-40e0-bb1c-3286ca44bb26.png?alt=media&token=4c5975a6-e7b7-4878-aec6-a3658c7a58ab);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame2-31-Frame1-12 {
+  animation: bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame2-31-Frame1-12
+    0.30000001192092896s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame2-31-Frame1-12 {
+  from {
+    transform: rotate(0deg);
+    top: 12px;
+    left: 12px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    width: 25px;
+    height: 25px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 12px;
+    left: 12px;
+    width: 25px;
+    height: 25px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame2-31-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame2-31-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame2-31-Frame1-12 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F20-sep-2023%2Fimage701372e8-59ec-40dc-b7eb-25b1ca26e7a6.png?alt=media&token=91441fa5-9a37-4215-aa15-c2e1c3df9268);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame2-31-Frame1-12 {
+  animation: bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame2-31-Frame1-12
+    0.30000001192092896s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-12 {
+  from {
+    transform: rotate(88.88559730996936deg);
+    top: 4.000000022351742px;
+    left: 4.999996684491634px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    width: 40px;
+    height: 40px;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+  }
+  to {
+    transform: rotate(88.88559730996936deg);
+    top: 4.000000022351742px;
+    left: 4.999996684491634px;
+    width: 40px;
+    height: 40px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+
+    background: rgba(249, 238, 136, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes path-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-svgpath-12 {
+  from {
+    d: path(
+      "M40 20C40 31.0457 31.0457 40 20 40C8.9543 40 0 31.0457 0 20C0 8.9543 8.9543 0 20 0C31.0457 0 40 8.9543 40 20Z"
+    );
+  }
+  to {
+    d: path(
+      "M40 20C40 31.0457 31.0457 40 20 40C8.9543 40 0 31.0457 0 20C0 8.9543 8.9543 0 20 0C31.0457 0 40 8.9543 40 20Z"
+    );
+  }
+}
+.pathClass-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-svgpath-12 {
+  animation: path-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-svgpath-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Frame1-12 {
+  from {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    width: 322px;
+    height: 332px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    width: 322px;
+    height: 332px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Frame3-31-Frame1-12 {
+  from {
+    transform: rotate(0deg);
+    top: 19px;
+    left: 216px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 88px;
+    height: 48px;
+    undefinedborder-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 19px;
+    left: 216px;
+    width: 88px;
+    height: 48px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    undefinedborder-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+    background: rgba(108, 117, 166, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-Frame3-31-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Frame3-31-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame3-31-Frame1-12 {
+  from {
+    transform: rotate(0deg);
+    top: 9px;
+    left: 50px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 25px;
+    height: 25px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 9px;
+    left: 50px;
+    width: 25px;
+    height: 25px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame3-31-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame3-31-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame3-31-Frame1-12 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F20-sep-2023%2Fimagecdbec8ca-f4ee-48e4-ae7a-e3d1f20830a5.png?alt=media&token=f5ec0c82-8e03-4493-9616-94905f110323);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame3-31-Frame1-12 {
+  animation: bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-waning-moon1-31-Frame3-31-Frame1-12
+    0.30000001192092896s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame3-31-Frame1-12 {
+  from {
+    transform: rotate(0deg);
+    top: 12px;
+    left: 12px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 25px;
+    height: 25px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 12px;
+    left: 12px;
+    width: 25px;
+    height: 25px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame3-31-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame3-31-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame3-31-Frame1-12 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F20-sep-2023%2Fimage79373be7-5b04-44a8-b452-5a284c4e05c0.png?alt=media&token=7144bdde-b708-40e6-aa7c-0e546f5283e3);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame3-31-Frame1-12 {
+  animation: bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-sun1-31-Frame3-31-Frame1-12
+    0.30000001192092896s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame3-31-Frame1-12 {
+  from {
+    transform: rotate(0deg);
+    top: 4px;
+    left: 42px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 40px;
+    height: 40px;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 4px;
+    left: 42px;
+    width: 40px;
+    height: 40px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+
+    background: rgba(249, 238, 136, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame3-31-Frame1-12 {
+  animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame3-31-Frame1-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes path-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame3-31-Frame1-svgpath-12 {
+  from {
+    d: path(
+      "M40 20C40 31.0457 31.0457 40 20 40C8.9543 40 0 31.0457 0 20C0 8.9543 8.9543 0 20 0C31.0457 0 40 8.9543 40 20Z"
+    );
+  }
+  to {
+    d: path(
+      "M40 20C40 31.0457 31.0457 40 20 40C8.9543 40 0 31.0457 0 20C0 8.9543 8.9543 0 20 0C31.0457 0 40 8.9543 40 20Z"
+    );
+  }
+}
+.pathClass-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame3-31-Frame1-svgpath-12 {
+  animation: path-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame3-31-Frame1-svgpath-12
+    0.30000001192092896s ease-out 0s normal forwards;
+}
+.parent-div {
+  width: 322px;
+  height: 332px;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.FRAME-1-2 {
+  transform: rotate(0deg);
+  position: relative;
+  width: 322px;
+  height: 332px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 1);
+}
+.FRAME-1-78 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 88px;
+  height: 48px;
+  left: 216px;
+  top: 23px;
+  opacity: 0;
+  background: rgba(108, 117, 166, 1);
+  border-radius: 50px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.ELLIPSE-1-84 {
+  position: absolute;
+  left: 4.999996684491634px;
+  top: 4.000000022351742px;
+  transform: rotate(88.88559730996936deg);
+  transform-origin: center !important;
+  background: rgba(249, 238, 136, 1);
+
+  border-radius: 50%;
+
+  width: 40px;
+  height: 40px;
+  opacity: 0;
+  clip-path: url(#id-Ellipse1-31-Frame2-31-Frame1-svgpath);
+}
+.FRAME-1-15 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 88px;
+  height: 48px;
+  left: 216px;
+  top: 19px;
+  opacity: 1;
+  background: rgba(108, 117, 166, 1);
+  border-radius: 50px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.ELLIPSE-1-16 {
+  position: absolute;
+  left: 42px;
+  top: 4px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(249, 238, 136, 1);
+
+  border-radius: 50%;
+
+  width: 40px;
+  height: 40px;
+  opacity: 1;
+  clip-path: url(#id-Ellipse1-31-Frame3-31-Frame1-svgpath);
+}
